@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there!
+
+## I am Simona Ligorio
+Originally from Italy and, living in London, I am a Master's Degree graduate in Digital Communication. 
+
+
+Currently studying Web Development with CoGrammar, I am working on HTML, CSS and Javascript.
+
+How to reach me - email address: Simonaligorio@icloud.com
 
 <!--
 **Sylig/Sylig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
