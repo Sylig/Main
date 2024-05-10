@@ -5,6 +5,9 @@
 I am a keen student of Full Stack Web Development. 
 Thanks to the CoGrammar and HyperionDev bootcamp, I am enjoying working on HTML, CSS and Javascript.
 I am also diving into Node.js and React.
+
+You can see some of my works in this repository.
+
 How to reach me - email address: Simonaligorio@icloud.com
 
 <!--
