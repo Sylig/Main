@@ -1,11 +1,10 @@
 # Hi there!
 
 ## I am Simona Ligorio
-Originally from Italy and, living in London, I am a Master's Degree graduate in Digital Communication. 
 
-
-Currently studying Web Development with CoGrammar, I am working on HTML, CSS and Javascript.
-
+I am a keen student of Full Stack Web Development. 
+Thanks to the CoGrammar and HyperionDev bootcamp, I am enjoying working on HTML, CSS and Javascript.
+I am also diving into Node.js and React.
 How to reach me - email address: Simonaligorio@icloud.com
 
 <!--
