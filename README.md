@@ -6,7 +6,7 @@ I am a keen student of Full Stack Web Development.
 Thanks to the CoGrammar and HyperionDev bootcamp, I am enjoying working on Frontend and Backend projects. 
 
 For the Frontend I developed skills in:
-- HtML
+- HTML
 - CSS
 - Javascript and Js Libraries
 - React.js
