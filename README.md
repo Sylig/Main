@@ -18,7 +18,7 @@ For the Backend I developed skills in:
 - Postman
 - Express
 
-You can see some of my works in this repository which will be kept updated in due course.
+You can see some of my works in my repositories which will be kept updated in due course.
 
 How to reach me - email address: Simonaligorio@icloud.com
 
